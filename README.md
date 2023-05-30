@@ -1,5 +1,5 @@
 # 75-engulfing-reversal-setup
 
 
-ES trading setup. Backtesting a strategy idea. 
+ES trading setup. Backtesting a strategy idea. **clean up files**
 
